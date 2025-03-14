@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MADHUVANTHAN
 - 👀 I’m interested in web devoloping
-- 🌱 I’m currently a student
+- 🌱 I’m currently a fresher
 - 💞️ I’m looking to collaborate with devolopers
 - 📫 How to reach me www.linkedin.com/in/madhuvanthan2003
 
