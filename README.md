@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MADHUVANTHAN
-- 👀 I’m interested in web devoloping
+- 👀 I’m interested in python devoleper ,Data Analyst (ML-aware) 
 - 🌱 I’m currently a fresher
 - 💞️ I’m looking to collaborate with devolopers
 - 📫 How to reach me www.linkedin.com/in/madhuvanthan2003
